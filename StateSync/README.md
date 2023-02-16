@@ -9,7 +9,7 @@
 ### Copy the entire command
 ```
 sudo systemctl stop aurad
-SNAP_RPC="http://95.216.2.219:25657/"; \
+SNAP_RPC="http://95.216.2.219:25657"; \
 LATEST_HEIGHT=$(curl -s $SNAP_RPC/block | jq -r .result.block.header.height); \
 BLOCK_HEIGHT=$((LATEST_HEIGHT - 1000)); \
 TRUST_HASH=$(curl -s "$SNAP_RPC/block?height=$BLOCK_HEIGHT" | jq -r .result.block_id.hash); \
