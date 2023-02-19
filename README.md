@@ -8,7 +8,7 @@
 ## L0vd Services for the Aura Community
 
 ## :heart: Explorer
-http://explorers.l0vd.com/aura-testnet
+https://explorers.l0vd.com/aura-testnet
 
 ## :heart: Monitoring
 https://github.com/L0vd/Aura/tree/main/Monitoring
@@ -20,7 +20,7 @@ https://github.com/L0vd/Aura/tree/main/StateSync
 https://github.com/L0vd/Aura/tree/main/Aura_wallet_bot
 
 ## :heart: Public RPC endpoint
-aura-testnet.rpc.l0vd.com
+https://aura-testnet.rpc.l0vd.com
 
 ## :heart: Public API
-aura-testnet.api.l0vd.com
+https://aura-testnet.api.l0vd.com
