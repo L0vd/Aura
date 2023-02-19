@@ -20,7 +20,7 @@ https://github.com/L0vd/Aura/tree/main/StateSync
 https://github.com/L0vd/Aura/tree/main/Aura_wallet_bot
 
 ## :heart: Public RPC endpoint
-http://95.216.2.219:25657/
+aura-testnet.rpc.l0vd.com
 
 ## :heart: Public API
-http://95.216.2.219:25317/
+aura-testnet.api.l0vd.com
